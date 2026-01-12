@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: a395ff40d80b2cc438fe0203d7c421c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2242422597192860486
+    second: ColorPaletteChange-02_0
+  - first:
+      213: 5125066212068687932
+    second: ColorPaletteChange-02_1
+  - first:
+      213: 6695227591501969226
+    second: ColorPaletteChange-02_2
+  - first:
+      213: -8732009767879431732
+    second: ColorPaletteChange-02_3
+  - first:
+      213: 4159184185117366097
+    second: ColorPaletteChange-02_4
+  - first:
+      213: -320334000665557142
+    second: ColorPaletteChange-02_5
+  - first:
+      213: 5465585184783881591
+    second: ColorPaletteChange-02_6
+  - first:
+      213: 3404091481685731084
+    second: ColorPaletteChange-02_7
+  - first:
+      213: 1675931229266829800
+    second: ColorPaletteChange-02_8
+  - first:
+      213: 7525259211034444203
+    second: ColorPaletteChange-02_9
+  - first:
+      213: -9124731285955078279
+    second: ColorPaletteChange-02_10
+  - first:
+      213: -4597593603115353494
+    second: ColorPaletteChange-02_11
+  - first:
+      213: 5876535818072463563
+    second: ColorPaletteChange-02_12
+  - first:
+      213: -2494486627347006918
+    second: ColorPaletteChange-02_13
+  - first:
+      213: 2570963514702091997
+    second: ColorPaletteChange-02_14
+  - first:
+      213: -6466965124819369775
+    second: ColorPaletteChange-02_15
+  - first:
+      213: -7901982614576994124
+    second: ColorPaletteChange-02_16
+  - first:
+      213: -8034055588850228494
+    second: ColorPaletteChange-02_17
+  - first:
+      213: 4659390510873100591
+    second: ColorPaletteChange-02_18
+  - first:
+      213: -5911102680964727318
+    second: ColorPaletteChange-02_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_0
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 5925
+        width: 3034
+        height: 1624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435d8c6925e2a64c817a47eef892f7b
+      internalID: -737690251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_1
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 5950
+        width: 1538
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96dcac59f7f594297bd977c4f6c16e
+      internalID: -555523411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_2
+      rect:
+        serializedVersion: 2
+        x: 6332
+        y: 5950
+        width: 1538
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ceab755dcd3c43925bc8fc520ffd3
+      internalID: -641016057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_3
+      rect:
+        serializedVersion: 2
+        x: 8378
+        y: 5950
+        width: 1537
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc476e932c3c0439b979eef37f04a8
+      internalID: -2047700898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_4
+      rect:
+        serializedVersion: 2
+        x: 10361
+        y: 5944
+        width: 1532
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313089d55449a0a43ac1a2cd39c3326c
+      internalID: -1651101690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1878
+        width: 4968
+        height: 3705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90ddabba69a4d4f9002365ab216a13
+      internalID: -2087551369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_6
+      rect:
+        serializedVersion: 2
+        x: 5753
+        y: 4204
+        width: 1189
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce009e7f4d7bf49aa23fb48b166452
+      internalID: 1584008118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_7
+      rect:
+        serializedVersion: 2
+        x: 7254
+        y: 4223
+        width: 1189
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c9898296bc7d409b60181ced9c5e8
+      internalID: 1011835814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_8
+      rect:
+        serializedVersion: 2
+        x: 8823
+        y: 4204
+        width: 1190
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8443fabfc76674297698f5ed65830a
+      internalID: 2030936153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_9
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 4185
+        width: 1190
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4585d0b145623f4cb449509f7d19a46
+      internalID: 200989438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_10
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 2409
+        width: 1190
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58512eee2cd095c4cb86af2f0d188cf5
+      internalID: 1467213967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_11
+      rect:
+        serializedVersion: 2
+        x: 7272
+        y: 2427
+        width: 1190
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41f7c8a1686614a84adef06af44a9c
+      internalID: 430962717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_12
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 2452
+        width: 1184
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6add9d33ccaf44ead1a358c2aead5d
+      internalID: 1397760497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_13
+      rect:
+        serializedVersion: 2
+        x: 10471
+        y: 2476
+        width: 1190
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88edc212581217642815288aea1c80e9
+      internalID: 1807739681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 791
+        width: 4150
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e97e5e1be178c4ca75aacd1f3e9ca4
+      internalID: -1114651897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_15
+      rect:
+        serializedVersion: 2
+        x: 5228
+        y: 913
+        width: 1068
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c107731d467c6408903522fc2531cf
+      internalID: -1622089920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_16
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 876
+        width: 1007
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252c964be76abf4485d130358f5b29d
+      internalID: -779301982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_17
+      rect:
+        serializedVersion: 2
+        x: 7968
+        y: 840
+        width: 1013
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428eb58c4bf297c46aaf8cff123d0a28
+      internalID: -1826725457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_18
+      rect:
+        serializedVersion: 2
+        x: 9293
+        y: 846
+        width: 1031
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a72729935e1604e9ce2030a50f1603
+      internalID: -1673628517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorPaletteChange-02_19
+      rect:
+        serializedVersion: 2
+        x: 10629
+        y: 888
+        width: 971
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f767b5b750ccf49acbae0e81cca72e
+      internalID: 591447368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b92882999006fb241ae2bf2df1ab9bb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ColorPaletteChange-02_0: -737690251
+      ColorPaletteChange-02_1: -555523411
+      ColorPaletteChange-02_10: 1467213967
+      ColorPaletteChange-02_11: 430962717
+      ColorPaletteChange-02_12: 1397760497
+      ColorPaletteChange-02_13: 1807739681
+      ColorPaletteChange-02_14: -1114651897
+      ColorPaletteChange-02_15: -1622089920
+      ColorPaletteChange-02_16: -779301982
+      ColorPaletteChange-02_17: -1826725457
+      ColorPaletteChange-02_18: -1673628517
+      ColorPaletteChange-02_19: 591447368
+      ColorPaletteChange-02_2: -641016057
+      ColorPaletteChange-02_3: -2047700898
+      ColorPaletteChange-02_4: -1651101690
+      ColorPaletteChange-02_5: -2087551369
+      ColorPaletteChange-02_6: 1584008118
+      ColorPaletteChange-02_7: 1011835814
+      ColorPaletteChange-02_8: 2030936153
+      ColorPaletteChange-02_9: 200989438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
