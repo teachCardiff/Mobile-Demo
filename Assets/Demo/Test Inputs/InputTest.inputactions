@@ -107,17 +107,6 @@
                 },
                 {
                     "name": "",
-                    "id": "61e07aed-f9d3-436d-9d00-ab4abdb00249",
-                    "path": "<Touchscreen>/position",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "e3725ffb-f8a0-43d5-b29b-164d2ad85437",
                     "path": "<Touchscreen>/position",
                     "interactions": "",

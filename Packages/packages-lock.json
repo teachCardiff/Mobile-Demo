@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.pokeblokdude.ulayout": {
-      "version": "https://github.com/pokeblokdude/uLayout.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "7e285c1a051cfc85597036ca6cf57f3800674310"
-    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
